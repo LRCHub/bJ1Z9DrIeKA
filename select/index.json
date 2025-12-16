@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "後悔史",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-16T12:46:25.943844Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "後悔史",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_後悔史_Tani_Yuuki.txt"
+    }
+  ]
+}
